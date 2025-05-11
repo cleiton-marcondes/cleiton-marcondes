@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Olá! Sou Cleiton – profissional com formação em Engenharia Mecânica, em transição de carreira para a área de Análise e Ciência de Dados.
 
-<!--
-**cleiton-marcondes/cleiton-marcondes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Tenho me dedicado ao desenvolvimento de projetos práticos com Python, utilizando bibliotecas e APIs para coleta, tratamento, visualização e análise de dados.
 
-Here are some ideas to get you started:
+🛠️ Habilidades e Tecnologias:
+- Python (pandas, matplotlib, seaborn, requests)
+- APIs
+- Visualização de dados
+- Tkinter para interfaces gráficas
+- Git & GitHub
+- SQL (intermediário)
+- BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Busco aplicar raciocínio lógico e visão sistêmica para transformar dados em insights que geram valor.
+
+📚 Sempre aprendendo e praticando com projetos reais.
